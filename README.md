@@ -11,5 +11,8 @@ there are various **commands** for this to be done.
 * install git
 * create details
 
+  1 coufer
+  2 dem
+
 
 
