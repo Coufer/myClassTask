@@ -6,9 +6,10 @@ This lession involves *learning git* and *gidhub* and some practice to it
 
 ###steps and command
 there are various **commands** for this to be done.
-*download git
-*install git
-*create details
+
+* download git
+* install git
+* create details
 
 
 
